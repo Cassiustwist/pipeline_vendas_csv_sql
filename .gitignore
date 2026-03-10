@@ -1,0 +1,22 @@
+# Ambiente virtual
+venv/
+
+# Variáveis de ambiente (credenciais)
+.env
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Arquivos de dados gerados
+data/bronze/
+
+# Configurações do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos do VS Code
+.vscode/
+
+.env
+.env.exemple
